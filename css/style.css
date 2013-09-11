@@ -11,3 +11,10 @@
 .navbar-default .navbar-nav>li>a{
 	color: #fff;
 }
+body{
+	background-image: url(../img/subtle_grunge.png);
+}
+.my_pic{
+	width: 550px;
+	height: 510px;
+}
